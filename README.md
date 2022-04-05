@@ -14,3 +14,5 @@ Some recommendations:
 3. If you want to enter another prefix, you should delete the last one, press the Enter button and enter another prefix or you can complement the last one and press the Enter button again.
 
 PS. It's my first try to use Classes to create the page, so, i did my best to create it correct.
+
+Here is a deploy: https://autocompletepsycho0sis.netlify.app/
